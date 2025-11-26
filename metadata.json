@@ -1,0 +1,5 @@
+{
+  "name": "RP PAY - GHL Integration",
+  "description": "Pre-OAuth authorization screen for connecting GoHighLevel with RP PAY for Mercado Pago integration.",
+  "requestFramePermissions": []
+}
