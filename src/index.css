@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos Globales */
+body {
+  /* Fondo gris azulado (slate-100) y texto oscuro */
+  @apply bg-slate-100 text-slate-900 antialiased;
+  min-height: 100vh;
+}
+
+/* Opcional: Hacer que las barras de desplazamiento se vean mejor */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-300 rounded-full hover:bg-slate-400;
+}

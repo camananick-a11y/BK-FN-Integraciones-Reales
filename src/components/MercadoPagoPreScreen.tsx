@@ -80,7 +80,6 @@ export const MercadoPagoPreScreen: React.FC<MercadoPagoPreScreenProps> = ({ onCo
           </div>
         </section>
 
-        {/* Security / What RP PAY Does NOT Do */}
         <section>
           <h3 className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4 flex items-center gap-2">
             <ShieldCheck size={14} />
