@@ -1,11 +1,30 @@
 # BK---FN---Integraciones-Reales
 
+---
 
-# Diagrama de clase
+## Roles del Equipo
 
-![Diagrama de Clases](diagramas/diagramaclase1.png)
+| Integrante        | Rol          |
+|-------------------|--------------|
+| Nick Camana       | Backend      |
+| Jhamir Quispe     | Backend      |
+| Luis Cajacuri     | Backend      |
+| Santiago Aguilar  | Frontend     |
+| Bruno Contreras   | Backend      |
+| Arturo Milla      | Scrum Master |
 
+---
 
-# Diagrama de secuencia
+## Diagrama de Clase
 
-![Diagrama de Secuencia](diagramas/DiagramaSecuencia.png)
+<p align="center">
+  <img src="diagramas/diagramaclase1.png" width="500">
+</p>
+
+---
+
+## Diagrama de Secuencia
+
+<p align="center">
+  <img src="diagramas/DiagramaSecuencia.png" width="500">
+</p>
