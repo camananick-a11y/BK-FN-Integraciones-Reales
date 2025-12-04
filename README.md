@@ -4,21 +4,21 @@
 
 ## Roles del Equipo
 
-| Integrante        | Rol          |
-|-------------------|--------------|
-| Nick Camana       | Backend      |
-| Jhamir Quispe     | Backend      |
-| Luis Cajacuri     | Backend      |
-| Santiago Aguilar  | Frontend     |
-| Bruno Contreras   | Backend      |
-| Arturo Milla      | Scrum Master |
+| Integrantes         | Roles          |
+|---------------------|--------------|
+| Nick Camana      4  | Backend      |
+| Jhamir Quispe    5  | Backend      |
+| Luis Cajacuri    4  | Backend      |
+| Bruno Contreras  4  | Backend      |
+| Santiago Aguilar 4  | Frontend     |
+| Arturo Milla     4  | Scrum Master |
 
 ---
 
 ## Diagrama de Clase
 
 <p align="center">
-  <img src="diagramas/diagramaclase1.png" width="500">
+  <img src="diagramas/diagramaclase1.png" width="650">
 </p>
 
 ---
@@ -26,5 +26,5 @@
 ## Diagrama de Secuencia
 
 <p align="center">
-  <img src="diagramas/DiagramaSecuencia.png" width="500">
+  <img src="diagramas/DiagramaSecuencia.png" width="650">
 </p>
